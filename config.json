@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerserify",
+        "uuid": 25901234,
+        "checksum": "vxb45"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
